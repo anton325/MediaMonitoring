@@ -56,9 +56,10 @@ The extracted articles are translated into both English and German and then save
     python main.py
     ```
 Once the algorithm is terminated, the created Word Documents can be found in Briefings/
+
 ## Contributing
 
-Contributions are welcome! Please feel free to fork the repository, make changes, and submit a pull request.
+Contributions are welcome! Please feel free to fork the repository, make changes, and submit a pull request. Due to the modular construction of the webscraping, you can easily extend this project and write a scraping implementation for a newspaper thats currently not included. For that, you need to inspect the website and insert unique CSS identifiers for the components the template requires to work.
 
 ## License
 
