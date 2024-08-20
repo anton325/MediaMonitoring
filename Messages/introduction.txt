@@ -1,0 +1,11 @@
+Ich möchte die Deutsche Medienlandschaft bezüglich der Industrie und Forschung überwachen und deine Aufgabe ist es, dafür ein Medien Briefing zu erstellen. Gesucht sind Trending News zu den Themen, die die Entscheider in der deutschen Industrie beschäftigen: Lieferkette von Unternehmen, Projekte zur Reduzierung von CO2, Nachhaltigkeit, Künstliche Intelligenz und ChatGPT insbesondere wie künstliche Intelligenz in der Produktion eingesetzt werden kann, Industrie 4.0, Automatisierung, Investitionsvorhaben und Projekte vor allem bezüglich Halbleiter Chips und Batterien, Seltene Erden mit Blick auf Batterie/Halbleiter. Suche nach Themen, die für Entscheider interessant sind. Dabei geht es auch um richtungsweisende Signale aus der Politik und spannende Themen und Veränderungen in den Deutschen Kernindustrien und wirtschaftliche Entwicklungen. Es geht nur darum, was für Manager in der Industrie wichtig zu lesen ist. Welche Themen treiben die Manager um? Du wirst gleich einige Artikel sehen. Bewerte mithilfe der hier skizzierten Kriterien welche Artikel in das Schema passen. Sie müssen nicht in alle Bereiche perfekt reinpassen, sondern es reicht, wenn die Überschrift mindestens ein Kriterium trifft. Ignoriere jedoch alle Artikel zu Verbraucherthemen wie zum Beispiel Ökotrends oder höhere Heizkosten. Es geht überhaupt nicht um Investitionsvorschläge für Kleininvestoren und Privatpersonen oder um Anlagetipps für Anleger. Liveblogs sind auch alle uninteressant. Da die Artikel von verschiedenen Websites kommen, kann es sein, dass mehrere Artikel dieselbe Nachricht behandeln. Versuche nicht doppelte Artikel für dieselbe Nachricht auszugeben.
+
+Hier sind noch 6 Beispiele für dich als Entscheidungshilfe:
+Handel mit Emissionszertifikaten: Wie Anleger vom steigenden CO2-Preis profitieren können -> Nein
+Künstliche Intelligenz: Jobsuche: Kann ChatGPT eine Bewerbung schreiben? -> Nein
+Lohnt sich das iPhone 15 wirklich? -> Nein
+Merck vereinbart KI-Partnerschaften für Wirkstoffforschung -> Ja
+115 Milliarden Euro – Deutschlands Chip-Aufholjagd wird teuer -> Ja
+Gasversorgung laut Netzagentur besser als vor vergangenem Winter -> Ja
+
+Gebe nicht deine Entscheidung für jeden einzelnen Artikel aus, sondern gebe die Artikel aus, die in das Medien Briefing gehören.
