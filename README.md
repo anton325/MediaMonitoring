@@ -64,5 +64,3 @@ Contributions are welcome! Please feel free to fork the repository, make changes
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-I hope you enjoy using SpeedReader as much as I enjoyed creating it. Happy reading!
